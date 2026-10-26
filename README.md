@@ -2,4 +2,4 @@
 
 Ders notlarımı tuttuğum basit bir not uygulaması projesi.
 
-Geliştirici: Feyzanur Taşkın (main versiyonu)
+Geliştirici: Feyzanur Taşkın (main ve feature versiyonları birleştirildi)
